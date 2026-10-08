@@ -1,7 +1,7 @@
 # Hi there 👋
-### Data Analyst | Expanding into Data Engineering
+### Data Analyst
 
-Data Analyst dedicated to transforming raw data into clear, actionable business strategies. I was a trainee at an Insurance Company where I gained experience in POWER BI and EXCEL ANALYSIS where i handled claims data to generate business insights, track and monitor KPI metrics across team. Currently, to complement my analyst skillset, I am actively learning data engineering principles to design clean, automated data pipelines.
+Data Analyst dedicated to transforming raw data into clear, actionable business strategies. I was a trainee at an Insurance Company where I gained experience in POWER BI and EXCEL ANALYSIS where i handled claims data to generate business insights, track and monitor KPI metrics across team. 
 
 ---
 
@@ -18,8 +18,12 @@ Data Analyst dedicated to transforming raw data into clear, actionable business 
 ## 🚀 Current Focus & Learning Journey
 
 - **Analyst Focus:** Refining my data cleaning workflows and building interactive, user-friendly Power BI dashboards that answer core business questions.
-- **Engineering Focus:** Upskilling in data architecture.
 
+
+## 🏗️ Building Now (OCT 2026)
+**1. Motor claims operations dashboard (synthetic data), due Oct 17**
+**2. E-commerce delivery analysis, due Oct 25**
+**3. Subscription churn analysis, due Oct 30**
 
 
 ## 📬 Let's Connect
