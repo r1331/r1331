@@ -1,7 +1,7 @@
 # Hi there 👋
 ### Data Analyst
 
-Data Analyst dedicated to transforming raw data into clear, actionable business strategies. I was a trainee at an Insurance Company where I gained experience in POWER BI and EXCEL ANALYSIS where i handled claims data to generate business insights, track and monitor KPI metrics across team. 
+Data Analyst dedicated to transforming raw data into clear, actionable business strategies. I was a trainee at an Insurance Company where I gained experience in POWER BI and EXCEL ANALYSIS where I tracked KPI Metrics for 50+ Service Engineers, built a 4-page ACS Driving Power BI dashboard including 15+ DAX measures and maintained KPI scorecard for team performance.
 
 ---
 
