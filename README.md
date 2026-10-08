@@ -22,9 +22,9 @@ Data Analyst dedicated to transforming raw data into clear, actionable business 
 
 ## 🏗️ Building Now (OCT 2026)
 
-- **1. Motor claims operations dashboard (synthetic data), due Oct 17**
-- **2. E-commerce delivery analysis, due Oct 25**
-- **3. Subscription churn analysis, due Oct 30**
+- **Motor claims operations dashboard (synthetic data), due Oct 17**
+- **E-commerce delivery analysis, due Oct 25**
+- **Subscription churn analysis, due Oct 30**
 
 
 ## 📬 Let's Connect
