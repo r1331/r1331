@@ -10,7 +10,6 @@ Data Analyst dedicated to transforming raw data into clear, actionable business 
 - **Data Analysis & ML:** Python, Pandas, NumPy, Scikit-Learn
 - **Databases & Querying:** SQL ( MySQL)
 - **Business Intelligence:** Power BI, DAX
-- **Data Engineering (In Progress)** 
 - **Core Developer Tools:** Jupyter Notebooks
 
 ---
